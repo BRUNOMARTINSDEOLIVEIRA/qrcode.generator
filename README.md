@@ -10,7 +10,7 @@ Qrcode Generator é uma aplicação backend que consiste em uma pesquisa de pref
 - Spring Boot
 - Docker
 - AWS
-- 
+
 # Como executar o projeto
 
 Pré-requisitos: Java 11
