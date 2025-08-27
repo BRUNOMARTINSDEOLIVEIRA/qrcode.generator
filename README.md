@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Qrcode Generator é uma aplicação backend que consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+Qrcode Generator um serviço backend que gera QR Codes usando Java e armazena os resultados em um bucket do Amazon S3
 
 # Tecnologias utilizadas
 ## Back end
@@ -13,7 +13,7 @@ Qrcode Generator é uma aplicação backend que consiste em uma pesquisa de pref
 
 # Como executar o projeto
 
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17 ou superior, Maven, Docker, Conta AWS com bucket S3 configurado, AWS CLI com credenciais configuradas.
 
 ```bash
 # clonar repositório
